@@ -1,0 +1,361 @@
+Customer_Ref,Delivery_Note_Ref_No,Supplier_Name,Data_Source,Product_Description,Material_name,entry_time,Quantity,Unit_of_Measure,Country_Name,Region_Name,City_Name,Building_Name,Phase_Name,kgCO2
+12345,677663216134,Travis Perkins,Average,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,11/6/2024,1500,Tonnes,UK,London,Westminster,John Wood Hospital,1,28
+12345,477887950837,Wolseley UK,Average,Concrete - Insitu - UK C32/40 (25% GGBS),Concrete - Insitu,11/17/2024,1900,Tonnes,UK,London,Westminster,John Wood Hospital,2,46
+12345,188897252548,Highbourne Group,EPD,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,11/10/2024,2100,Tonnes,UK,London,Westminster,John Wood Hospital,3,58
+12345,658361251931,James Burrell,EPD,Steel - Rebar - UK 97% recycled EAF production,Steel,11/18/2024,800,Tonnes,UK,London,Westminster,John Wood Hospital,4,122
+12345,606015272438,Lawsons,EPD,Concrete - Insitu - Global Avg C32/40 ±10% (Excludes China),Concrete - Insitu,11/14/2024,750,Tonnes,UK,London,Westminster,John Wood Hospital,5,29
+12345,461245591053,Williams & Co,Average,Steel - PT_strands - UK 97% recycled EAF production,Steel,11/9/2024,1000,Tonnes,UK,London,Westminster,John Wood Hospital,6,152
+12345,881541217676,Travis Perkins,EPD,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,1200,Tonnes,UK,London,Westminster,Gordon University,1,41
+12345,415907298447,Travis Perkins,Average,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,4/6/2023,1000,Tonnes,UK,London,Westminster,Gordon University,2,23
+12345,124700733693,Travis Perkins,Average,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,1100,Tonnes,UK,London,Westminster,Gordon University,3,38
+12345,270358184352,EH Smith,EPD,Steel - Structural_sections - UK closed sections,Steel,9/20/2023,900,Tonnes,UK,London,Westminster,Gordon University,4,563
+12345,403017786098,EH Smith,EPD,Concrete - Mortar_screed - 1:4 cement:sand mix CEM I,Concrete - Insitu,9/20/2023,500,Tonnes,UK,London,Westminster,Gordon University,5,20
+12345,911415748064,EH Smith,Average,Steel - Structural_sections - Global open rolled sections,Steel,9/20/2023,600,Tonnes,UK,London,Westminster,Gordon University,6,233
+12345,647883213357,Travis Perkins,Average,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,900,Tonnes,UK,London,Westminster,Moors Shopping centre,1,28
+12345,433471517404,Travis Perkins,Average,Concrete - Insitu - UK C16/20 (0% SCM),Concrete - Insitu,4/6/2023,1350,Tonnes,UK,London,Westminster,Moors Shopping centre,2,34
+12345,604274038923,Travis Perkins,EPD,Concrete - Mortar_screed - 1:4 cement:sand mix avg UK cement mix,Concrete - Insitu,4/6/2023,1400,Tonnes,UK,London,Westminster,Moors Shopping centre,3,46
+12345,963957882951,EH Smith,EPD,Steel - PT_strands - Global avg,Steel,9/20/2023,670,Tonnes,UK,London,Westminster,Moors Shopping centre,4,296
+12345,221211955882,EH Smith,EPD,Concrete - Precast_concrete - C40/50 avg UK cement mix,Concrete - Insitu,9/20/2023,890,Tonnes,UK,London,Westminster,Moors Shopping centre,5,35
+12345,169673202559,EH Smith,Average,"Concrete, GEN1",Concrete,9/20/2023,600,Tonnes,UK,London,Westminster,Moors Shopping centre,6,13
+12345,895765033084,Travis Perkins,Average,Aluminium - Extruded profile - Worldwide - 31% recycled content,Aluminium,4/6/2023,50,Tonnes,UK,London,Islington,Hope Community Centre,1,102
+12345,20924196579,Travis Perkins,Average,Concrete - Insitu - UK C32/40 (25% GGBS),Concrete - Insitu,4/6/2023,1900,Tonnes,UK,London,Islington,Hope Community Centre,2,35
+12345,63595375279,Travis Perkins,EPD,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,2100,Tonnes,UK,London,Islington,Hope Community Centre,3,45
+12345,885029813507,EH Smith,EPD,Steel - Rebar - UK 97% recycled EAF production,Steel,9/20/2023,800,Tonnes,UK,London,Islington,Hope Community Centre,4,94
+12345,943323084851,EH Smith,EPD,Concrete - Insitu - Global Avg C32/40 ±10% (Excludes China),Concrete - Insitu,9/20/2023,750,Tonnes,UK,London,Islington,Hope Community Centre,5,22
+12345,410528343869,EH Smith,Average,Steel - PT_strands - UK 97% recycled EAF production,Steel,9/20/2023,1000,Tonnes,UK,London,Islington,Hope Community Centre,6,118
+12345,111541675636,Travis Perkins,Average,Concrete - Mortar_screed - 1:4 cement:sand mix avg UK cement mix,Concrete - Insitu,4/6/2023,1200,Tonnes,UK,London,Islington,Osborne Apartments,1,24
+12345,992496495833,Travis Perkins,Average,Concrete - Insitu - Global Avg C32/40 ±10% (Excludes China),Concrete - Insitu,4/6/2023,1400,Tonnes,UK,London,Islington,Osborne Apartments,2,37
+12345,791525104315,Travis Perkins,EPD,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,4/6/2023,1670,Tonnes,UK,London,Islington,Osborne Apartments,3,21
+12345,207655869424,EH Smith,EPD,Steel - Rebar - UK 97% recycled EAF production,Steel,9/20/2023,900,Tonnes,UK,London,Islington,Osborne Apartments,4,93
+12345,598434632876,EH Smith,EPD,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,9/20/2023,870,Tonnes,UK,London,Islington,Osborne Apartments,5,16
+12345,466911315452,EH Smith,Average,Steel - Structural_sections - Global closed sections,Steel,9/20/2023,1240,Tonnes,UK,London,Islington,Osborne Apartments,6,423
+12345,909454258624,Travis Perkins,Average,Concrete - Insitu - UK C32/40 (25% GGBS),Concrete - Insitu,4/6/2023,1340,Tonnes,UK,London,Islington,Vox Data Centre,1,34
+12345,465242523932,Travis Perkins,Average,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,1520,Tonnes,UK,London,Islington,Vox Data Centre,2,44
+12345,345096618402,Travis Perkins,EPD,Concrete - Mortar_screed - 1:4 cement:sand mix avg UK cement mix,Concrete - Insitu,4/6/2023,1670,Tonnes,UK,London,Islington,Vox Data Centre,3,52
+12345,426991597982,EH Smith,EPD,Steel - Structural_sections - Global closed sections,Steel,9/20/2023,850,Tonnes,UK,London,Islington,Vox Data Centre,4,443
+12345,447725673671,EH Smith,EPD,"Concrete, GEN3",Concrete,9/20/2023,633,Tonnes,UK,London,Islington,Vox Data Centre,5,15
+12345,784248548792,EH Smith,Average,Steel - PT_strands - UK 97% recycled EAF production,Steel,9/20/2023,900,Tonnes,UK,London,Islington,Vox Data Centre,6,143
+12345,855397593462,Bradfords,Average,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,2000,Tonnes,UK,South East,Oxford,Hunton Towers,1,410
+12345,141321596689,Bradfords,Average,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,1270,Tonnes,UK,South East,Oxford,Hunton Towers,2,15
+12345,818538676947,Bradfords,EPD,"Concrete C32/40 CII/B-V ECOPact, Mix code PUL2921/004, Purley plant",Concrete,11/15/2023,1800,Tonnes,UK,South East,Oxford,Hunton Towers,3,31
+12345,821804125327,Bradfords,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,11/15/2023,2300,Tonnes,UK,South East,Oxford,Hunton Towers,4,33
+12345,837430730228,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,200,Tonnes,UK,South East,Oxford,Hunton Towers,5,8
+12345,971533237490,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,150,Tonnes,UK,South East,Oxford,Hunton Towers,6,8
+12345,987815173575,Bradfords,EPD,AGT Medium Density Fibreboard (Raw),Timber,11/15/2023,1500,Tonnes,UK,South East,Oxford,Henry Library,1,131
+12345,454980693524,Bradfords,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,11/15/2023,1500,Tonnes,UK,South East,Oxford,Henry Library,2,22
+12345,57104802923,Bradfords,EPD,"Concrete C32/40 ECOPact , Mix code BRL2920/003, Brentford plant",Concrete,11/15/2023,1300,Tonnes,UK,South East,Oxford,Henry Library,3,25
+12345,115896399366,Bradfords,EPD,"Concrete GEN3 ECOPact, Mix code WAL2928/002, Watford plant",Concrete,11/15/2023,1700,Tonnes,UK,South East,Oxford,Henry Library,4,22
+12345,124310405459,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,340,Tonnes,UK,South East,Oxford,Henry Library,5,19
+12345,898649124428,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,250,Tonnes,UK,South East,Oxford,Henry Library,6,17
+12345,954913474386,Bradfords,Average,Optima 117+ 16.8mm Partition System Category I,Timber,11/15/2023,2000,Tonnes,UK,South East,Oxford,Kennedy Hotel,1,480
+12345,300771371927,Bradfords,Average,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,11/15/2023,1270,Tonnes,UK,South East,Oxford,Kennedy Hotel,2,20
+12345,16217069002,Bradfords,EPD,Concrete - Insitu - UK C16/20 (0% SCM),Concrete - Insitu,11/15/2023,1800,Tonnes,UK,South East,Oxford,Kennedy Hotel,3,34
+12345,968249505850,Bradfords,EPD,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,2300,Tonnes,UK,South East,Oxford,Kennedy Hotel,4,28
+12345,61954610748,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,200,Tonnes,UK,South East,Oxford,Kennedy Hotel,5,8
+12345,380252129165,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,150,Tonnes,UK,South East,Oxford,Kennedy Hotel,6,8
+12345,336733992910,Bradfords,EPD,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,1780,Tonnes,UK,South East,Portsmouth,JK Science Building,1,327
+12345,975044554098,Bradfords,EPD,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,980,Tonnes,UK,South East,Portsmouth,JK Science Building,2,11
+12345,737870419397,Bradfords,EPD,"Concrete C32/40 CII/B-V ECOPact, Mix code PUL2921/004, Purley plant",Concrete,11/15/2023,1367,Tonnes,UK,South East,Portsmouth,JK Science Building,3,21
+12345,915631321724,Bradfords,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,11/15/2023,2100,Tonnes,UK,South East,Portsmouth,JK Science Building,4,27
+12345,885631401557,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,340,Tonnes,UK,South East,Portsmouth,JK Science Building,5,13
+12345,652935798046,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,267,Tonnes,UK,South East,Portsmouth,JK Science Building,6,12
+12345,577402401715,Bradfords,Average,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,1780,Tonnes,UK,South East,Portsmouth,Mason Complex,1,561
+12345,114542420022,Bradfords,Average,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,1050,Tonnes,UK,South East,Portsmouth,Mason Complex,2,19
+12345,984882148913,Bradfords,EPD,"Concrete C32/40 CII/B-V ECOPact, Mix code PUL2921/004, Purley plant",Concrete,11/15/2023,1200,Tonnes,UK,South East,Portsmouth,Mason Complex,3,31
+12345,517111546825,Bradfords,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,11/15/2023,2100,Tonnes,UK,South East,Portsmouth,Mason Complex,4,47
+12345,247477715369,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,340,Tonnes,UK,South East,Portsmouth,Mason Complex,5,22
+12345,302951568272,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,200,Tonnes,UK,South East,Portsmouth,Mason Complex,6,16
+12345,832871113204,Bradfords,EPD,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,1300,Tonnes,UK,South East,Portsmouth,Apex shopping mall,1,262
+12345,867281850194,Bradfords,EPD,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,1500,Tonnes,UK,South East,Portsmouth,Apex shopping mall,2,18
+12345,239570026519,Bradfords,EPD,"Concrete C32/40 CII/B-V ECOPact, Mix code PUL2921/004, Purley plant",Concrete,11/15/2023,2340,Tonnes,UK,South East,Portsmouth,Apex shopping mall,3,39
+12345,771702465135,Bradfords,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,11/15/2023,1900,Tonnes,UK,South East,Portsmouth,Apex shopping mall,4,27
+12345,9228726383,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,432,Tonnes,UK,South East,Portsmouth,Apex shopping mall,5,18
+12345,314592481358,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,150,Tonnes,UK,South East,Portsmouth,Apex shopping mall,6,8
+12345,163114985218,Lawsons,Average,"Timber, Hardboard",Timber - formwork,12/10/2023,230,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,1,23
+12345,381819466361,EH Smith,Average,"Timber, Plywood",Timber - formwork,12/10/2023,500,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,2,43
+12345,649305469123,MKM,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code GRL2924/011, Greenwich plant",Concrete,1/17/2024,1400,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,3,5
+12345,129078234313,Highbourne Group,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,120,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,4,326
+12345,619359414325,Highbourne Group,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,4500,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,5,49
+12345,919403058941,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,311,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,6,256
+12345,191720365779,JT Atkinson,Average,"Timber, Fibreboard",Timber - formwork,12/10/2023,90,Tonnes,UK,North West,Liverpool,Smiths Offices,1,11
+12345,266836095601,James Burrell,Average,"Timber, Laminated strand lumber",Timber - formwork,12/10/2023,300,Tonnes,UK,North West,Liverpool,Smiths Offices,2,26
+12345,16209006309,Bradfords,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code WAL2928/011, Watford plant",Concrete,1/17/2024,1300,Tonnes,UK,North West,Liverpool,Smiths Offices,3,7
+12345,601485396968,Williams & Co,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,100,Tonnes,UK,North West,Liverpool,Smiths Offices,4,375
+12345,154212759109,JT Atkinson,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,6500,Tonnes,UK,North West,Liverpool,Smiths Offices,5,98
+12345,911579858976,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,200,Tonnes,UK,North West,Liverpool,Smiths Offices,6,228
+12345,832632846897,EH Smith,Average,"Timber, Laminated strand lumber",Timber - formwork,12/10/2023,120,Tonnes,UK,North West,Liverpool,Pauls Hospital,1,11
+12345,977907732361,EH Smith,Average,"Timber, Parquet",Timber - formwork,12/10/2023,450,Tonnes,UK,North West,Liverpool,Pauls Hospital,2,64
+12345,811142232268,Travis Perkins,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code WAL2928/011, Watford plant",Concrete,1/17/2024,1100,Tonnes,UK,North West,Liverpool,Pauls Hospital,3,6
+12345,448453188641,MKM,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,120,Tonnes,UK,North West,Liverpool,Pauls Hospital,4,458
+12345,157737711677,Highbourne Group,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,5400,Tonnes,UK,North West,Liverpool,Pauls Hospital,5,83
+12345,229505380615,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,110,Tonnes,UK,North West,Liverpool,Pauls Hospital,6,127
+12345,754405331099,Grafton Group,Average,"Timber, MDF",Timber - formwork,12/10/2023,120,Tonnes,UK,North West,Manchester,Kate College Campus,1,16
+12345,985978803131,JT Atkinson,Average,"Timber, OSB",Timber - formwork,12/10/2023,350,Tonnes,UK,North West,Manchester,Kate College Campus,2,25
+12345,225940843578,Wolseley UK,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code GRL2924/011, Greenwich plant",Concrete,1/17/2024,1200,Tonnes,UK,North West,Manchester,Kate College Campus,3,6
+12345,707676246529,Travis Perkins,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,110,Tonnes,UK,North West,Manchester,Kate College Campus,4,378
+12345,862134870607,MKM,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,5900,Tonnes,UK,North West,Manchester,Kate College Campus,5,81
+12345,583651943830,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,167,Tonnes,UK,North West,Manchester,Kate College Campus,6,174
+12345,536084196297,EH Smith,Average,"Timber, Chipboard",Timber - formwork,12/10/2023,100,Tonnes,UK,North West,Manchester,Athens Sports Centre,1,6
+12345,358098459895,EH Smith,EPD,"Timber, Laminated strand lumber",Timber - formwork,12/10/2023,250,Tonnes,UK,North West,Manchester,Athens Sports Centre,2,17
+12345,504509989637,Highbourne Group,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,1/17/2024,1200,Tonnes,UK,North West,Manchester,Athens Sports Centre,3,8
+12345,820028282468,Highbourne Group,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,140,Tonnes,UK,North West,Manchester,Athens Sports Centre,4,421
+12345,904673838056,Highbourne Group,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,6100,Tonnes,UK,North West,Manchester,Athens Sports Centre,5,74
+12345,738266760017,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,165,Tonnes,UK,North West,Manchester,Athens Sports Centre,6,150
+12345,193391011795,Haldane Group,EPD,Brickwork - Single skin wall with mortar 1:4 CEM I cement:sand mix,Brickwork,12/10/2023,800,Tonnes,UK,North West,Manchester,City Fibre Data Centre,1,19
+12345,634276902070,James Hargreaves,Average,"Glass, Glazing triple",Glass,12/10/2023,600,Tonnes,UK,North West,Manchester,City Fibre Data Centre,2,101
+12345,530663409037,Travis Perkins,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code WAL2928/011, Watford plant",Concrete,1/17/2024,1500,Tonnes,UK,North West,Manchester,City Fibre Data Centre,3,6
+12345,836839751340,Williams & Co,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,200,Tonnes,UK,North West,Manchester,City Fibre Data Centre,4,511
+12345,672305397223,Lords Group Trading,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,5690,Tonnes,UK,North West,Manchester,City Fibre Data Centre,5,58
+12345,148540433962,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,189,Tonnes,UK,North West,Manchester,Lux Shopping Centre,6,146
+12345,123622462386,Wolseley UK,Average,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,175,Tonnes,UK,North East,Gateshead,Johns Grammar School,1,288
+12345,523829038487,Wolseley UK,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,300,Tonnes,UK,North East,Gateshead,Johns Grammar School,2,260
+12345,481865352252,Williams & Co,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,3000,Tonnes,UK,North East,Gateshead,Johns Grammar School,3,18
+12345,85267974064,Williams & Co,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,2800,Tonnes,UK,North East,Gateshead,Johns Grammar School,4,23
+12345,865243826759,Williams & Co,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2100,Tonnes,UK,North East,Gateshead,Johns Grammar School,5,16
+12345,171656213002,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1100,Tonnes,UK,North East,Gateshead,Johns Grammar School,6,12
+12345,59275598731,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,150,Tonnes,UK,North East,Gateshead,Pinewood Estate,1,156
+12345,152707667556,Wolseley UK,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,290,Tonnes,UK,North East,Gateshead,Pinewood Estate,2,313
+12345,295985962264,Williams & Co,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,2600,Tonnes,UK,North East,Gateshead,Pinewood Estate,3,19
+12345,762220152187,Williams & Co,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,2350,Tonnes,UK,North East,Gateshead,Pinewood Estate,4,24
+12345,336053289706,Williams & Co,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2200,Tonnes,UK,North East,Gateshead,Pinewood Estate,5,21
+12345,558965854579,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1300,Tonnes,UK,North East,Gateshead,Pinewood Estate,6,18
+12345,87669994915,Highbourne Group,Average,Steel_fire_protection - Amotherm steel WB EPD,Aluminium,2/10/2024,200,Tonnes,UK,North East,Gateshead,Hilton Hotel,1,81
+12345,712990275583,UK Plumbling Supplies,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,180,Tonnes,UK,North East,Gateshead,Hilton Hotel,2,208
+12345,957184492842,Lawsons,EPD,"Concrete, GEN1",Concrete,3/3/2024,3500,Tonnes,UK,North East,Gateshead,Hilton Hotel,3,58
+12345,74569547549,EH Smith,EPD,"Concrete GEN1 ECOPact, Mix code HNL2930/001, Hornsey plant",Concrete,3/3/2024,4500,Tonnes,UK,North East,Gateshead,Hilton Hotel,4,41
+12345,775157137773,Williams & Co,EPD,"Concrete C32/40 ECOPact , Mix code BRL2920/003, Brentford plant",Concrete,3/3/2024,4000,Tonnes,UK,North East,Gateshead,Hilton Hotel,5,58
+12345,58867748827,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,2100,Tonnes,UK,North East,Gateshead,Hilton Hotel,6,31
+12345,48766899155,Huws Gray Group,Average,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,175,Tonnes,UK,North East,South Shields,West Pharma Company,1,353
+12345,195023222593,MKM,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,300,Tonnes,UK,North East,South Shields,West Pharma Company,2,318
+12345,680634319549,James Hargreaves,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,3000,Tonnes,UK,North East,South Shields,West Pharma Company,3,22
+12345,894615599186,Haldane Group,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,2800,Tonnes,UK,North East,South Shields,West Pharma Company,4,28
+12345,533983439905,EH Smith,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2100,Tonnes,UK,North East,South Shields,West Pharma Company,5,20
+12345,848431855439,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1100,Tonnes,UK,North East,South Shields,West Pharma Company,6,15
+12345,970995893701,Wolseley UK,Average,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,200,Tonnes,UK,North East,South Shields,Victoria Medical Centre,1,338
+12345,479219703469,Wolseley UK,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,310,Tonnes,UK,North East,South Shields,Victoria Medical Centre,2,275
+12345,344935775036,Lawsons,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,3900,Tonnes,UK,North East,South Shields,Victoria Medical Centre,3,24
+12345,996192153775,Bradfords,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,4500,Tonnes,UK,North East,South Shields,Victoria Medical Centre,4,38
+12345,778792033670,MKM,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2700,Tonnes,UK,North East,South Shields,Victoria Medical Centre,5,21
+12345,344766000751,James Burrell,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1500,Tonnes,UK,North East,South Shields,Victoria Medical Centre,6,17
+12345,117797135142,MKM,Average,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,190,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,1,309
+12345,45568286907,Huws Gray Group,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,290,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,2,248
+12345,597150109475,James Burrell,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,4200,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,3,25
+12345,244073602836,Grafton Group,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,3100,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,4,25
+12345,197660033125,Lawsons,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2400,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,5,18
+12345,434478468494,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1100,Tonnes,UK,North East,Gateshead,Atkin Childrens Hospital,6,12
+12345,41326319100,Highbourne Group,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,200,Tonnes,UK,South West,Plymouth,Velum Data Centre,1,46
+12345,37594979163,Huws Gray Group,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,500,Tonnes,UK,South West,Plymouth,Velum Data Centre,2,14
+12345,102580776205,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,700,Tonnes,UK,South West,Plymouth,Velum Data Centre,3,71
+12345,309080357896,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1350,Tonnes,UK,South West,Plymouth,Velum Data Centre,4,140
+12345,681268547661,Lawsons,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,790,Tonnes,UK,South West,Plymouth,Velum Data Centre,5,11
+12345,895913562504,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1200,Tonnes,UK,South West,Plymouth,Velum Data Centre,6,5
+12345,990132426144,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,300,Tonnes,UK,South West,Plymouth,Morgan Business Park,1,95
+12345,695852346950,Wolseley UK,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,1000,Tonnes,UK,South West,Plymouth,Morgan Business Park,2,39
+12345,494719955371,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,700,Tonnes,UK,South West,Plymouth,Morgan Business Park,3,97
+12345,551496874075,Lawsons,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1400,Tonnes,UK,South West,Plymouth,Morgan Business Park,4,198
+12345,450729818781,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,550,Tonnes,UK,South West,Plymouth,Morgan Business Park,5,10
+12345,962235752027,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1390,Tonnes,UK,South West,Plymouth,Morgan Business Park,6,8
+12345,690746695501,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,360,Tonnes,UK,South West,Plymouth,Basin Retial Park,1,125
+12345,995497641153,Travis Perkins,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,700,Tonnes,UK,South West,Plymouth,Basin Retial Park,2,30
+12345,334092341596,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,900,Tonnes,UK,South West,Plymouth,Basin Retial Park,3,137
+12345,996835816185,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1500,Tonnes,UK,South West,Plymouth,Basin Retial Park,4,234
+12345,973671204875,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,900,Tonnes,UK,South West,Plymouth,Basin Retial Park,5,18
+12345,348363778321,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1400,Tonnes,UK,South West,Plymouth,Basin Retial Park,6,9
+12345,536305387038,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,600,Tonnes,UK,South West,Bath,City Housing,1,232
+12345,111519097350,Travis Perkins,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,700,Tonnes,UK,South West,Bath,City Housing,2,33
+12345,272962488467,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,750,Tonnes,UK,South West,Bath,City Housing,3,127
+12345,997356596169,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1800,Tonnes,UK,South West,Bath,City Housing,4,312
+12345,515742716612,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,1000,Tonnes,UK,South West,Bath,City Housing,5,22
+12345,822195384418,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1600,Tonnes,UK,South West,Bath,City Housing,6,12
+12345,740396140608,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,250,Tonnes,UK,South West,Bath,Passport Office,1,71
+12345,337035022908,Travis Perkins,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,790,Tonnes,UK,South West,Bath,Passport Office,2,27
+12345,347470394568,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,880,Tonnes,UK,South West,Bath,Passport Office,3,109
+12345,692764722974,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1700,Tonnes,UK,South West,Bath,Passport Office,4,215
+12345,389706638641,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,1100,Tonnes,UK,South West,Bath,Passport Office,5,18
+12345,149930681102,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1320,Tonnes,UK,South West,Bath,Passport Office,6,7
+12345,252178082242,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,200,Tonnes,UK,South West,Bath,Atrium Sports Complex,1,89
+12345,917457469272,Travis Perkins,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,500,Tonnes,UK,South West,Bath,Atrium Sports Complex,2,27
+12345,14657957247,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,700,Tonnes,UK,South West,Bath,Atrium Sports Complex,3,136
+12345,570989458355,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1350,Tonnes,UK,South West,Bath,Atrium Sports Complex,4,270
+12345,696461165323,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,790,Tonnes,UK,South West,Bath,Atrium Sports Complex,5,20
+12345,715324721066,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1200,Tonnes,UK,South West,Bath,Atrium Sports Complex,6,10
+12346,424139205366,Travis Perkins,Average,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,4/1/2024,1500,Tonnes,UK,Scotland,Aberdeen,Opera House,1,28
+12346,175213123439,Travis Perkins,Average,Concrete - Insitu - UK C32/40 (25% GGBS),Concrete - Insitu,4/1/2024,1200,Tonnes,UK,Scotland,Aberdeen,Opera House,2,29
+12346,240458960412,Travis Perkins,EPD,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/1/2024,1700,Tonnes,UK,Scotland,Aberdeen,Opera House,3,47
+12346,486928967060,EH Smith,EPD,Steel - Rebar - UK 97% recycled EAF production,Steel,4/13/2023,900,Tonnes,UK,Scotland,Aberdeen,Opera House,4,137
+12346,307081042090,EH Smith,EPD,Concrete - Insitu - Global Avg C32/40 ±10% (Excludes China),Concrete - Insitu,4/13/2023,650,Tonnes,UK,Scotland,Aberdeen,Opera House,5,25
+12346,565576349850,EH Smith,Average,Steel - PT_strands - UK 97% recycled EAF production,Steel,4/13/2023,500,Tonnes,UK,Scotland,Aberdeen,Opera House,6,76
+12346,50755759003,Travis Perkins,EPD,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,1200,Tonnes,UK,Scotland,Aberdeen,Catherine Homes,1,41
+12346,316022646613,Travis Perkins,Average,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,4/6/2023,1000,Tonnes,UK,Scotland,Aberdeen,Catherine Homes,2,23
+12346,162438410567,Travis Perkins,Average,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,1100,Tonnes,UK,Scotland,Aberdeen,Catherine Homes,3,38
+12346,969965749652,EH Smith,EPD,Steel - Structural_sections - UK closed sections,Steel,9/20/2023,900,Tonnes,UK,Scotland,Aberdeen,Catherine Homes,4,563
+12346,972521724644,EH Smith,EPD,Concrete - Mortar_screed - 1:4 cement:sand mix CEM I,Concrete - Insitu,9/20/2023,500,Tonnes,UK,Scotland,Aberdeen,Catherine Homes,5,20
+12346,31238461379,EH Smith,Average,Steel - Structural_sections - Global open rolled sections,Steel,9/20/2023,600,Tonnes,UK,Scotland,Aberdeen,Catherine Homes,6,233
+12346,524932292290,Travis Perkins,Average,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,900,Tonnes,UK,Scotland,Aberdeen,Kite Motors,1,28
+12346,896251633530,Travis Perkins,Average,Concrete - Insitu - UK C16/20 (0% SCM),Concrete - Insitu,4/6/2023,1350,Tonnes,UK,Scotland,Aberdeen,Kite Motors,2,34
+12346,646459505427,Travis Perkins,EPD,Concrete - Mortar_screed - 1:4 cement:sand mix avg UK cement mix,Concrete - Insitu,4/6/2023,1400,Tonnes,UK,Scotland,Aberdeen,Kite Motors,3,46
+12346,479926299303,EH Smith,EPD,Steel - PT_strands - Global avg,Steel,9/20/2023,670,Tonnes,UK,Scotland,Aberdeen,Kite Motors,4,296
+12346,905039498582,EH Smith,EPD,Concrete - Precast_concrete - C40/50 avg UK cement mix,Concrete - Insitu,9/20/2023,890,Tonnes,UK,Scotland,Aberdeen,Kite Motors,5,35
+12346,391584963305,EH Smith,Average,"Concrete, GEN1",Concrete,9/20/2023,600,Tonnes,UK,Scotland,Aberdeen,Kite Motors,6,13
+12346,166201141430,Travis Perkins,Average,Aluminium - Extruded profile - Worldwide - 31% recycled content,Aluminium,4/6/2023,50,Tonnes,UK,Scotland,Glasgow,Aspen Library,1,102
+12346,9377637645,Travis Perkins,Average,Concrete - Insitu - UK C32/40 (25% GGBS),Concrete - Insitu,4/6/2023,1900,Tonnes,UK,Scotland,Glasgow,Aspen Library,2,35
+12346,208396871108,Travis Perkins,EPD,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,2100,Tonnes,UK,Scotland,Glasgow,Aspen Library,3,45
+12346,673734951997,EH Smith,EPD,Steel - Rebar - UK 97% recycled EAF production,Steel,9/20/2023,800,Tonnes,UK,Scotland,Glasgow,Aspen Library,4,94
+12346,54748722585,EH Smith,EPD,Concrete - Insitu - Global Avg C32/40 ±10% (Excludes China),Concrete - Insitu,9/20/2023,750,Tonnes,UK,Scotland,Glasgow,Aspen Library,5,22
+12346,465848447755,EH Smith,Average,Steel - PT_strands - UK 97% recycled EAF production,Steel,9/20/2023,1000,Tonnes,UK,Scotland,Glasgow,Aspen Library,6,118
+12346,238702904898,Travis Perkins,Average,Concrete - Mortar_screed - 1:4 cement:sand mix avg UK cement mix,Concrete - Insitu,4/6/2023,1200,Tonnes,UK,Scotland,Glasgow,Osborne Hospital,1,24
+12346,535991225158,Travis Perkins,Average,Concrete - Insitu - Global Avg C32/40 ±10% (Excludes China),Concrete - Insitu,4/6/2023,1400,Tonnes,UK,Scotland,Glasgow,Osborne Hospital,2,37
+12346,195502547547,Travis Perkins,EPD,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,4/6/2023,1670,Tonnes,UK,Scotland,Glasgow,Osborne Hospital,3,21
+12346,27477320051,EH Smith,EPD,Steel - Rebar - UK 97% recycled EAF production,Steel,9/20/2023,900,Tonnes,UK,Scotland,Glasgow,Osborne Hospital,4,93
+12346,491641848348,EH Smith,EPD,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,9/20/2023,870,Tonnes,UK,Scotland,Glasgow,Osborne Hospital,5,16
+12346,21227023564,EH Smith,Average,Steel - Structural_sections - Global closed sections,Steel,9/20/2023,1240,Tonnes,UK,Scotland,Glasgow,Osborne Hospital,6,423
+12346,423952520592,Travis Perkins,Average,Concrete - Insitu - UK C32/40 (25% GGBS),Concrete - Insitu,4/6/2023,1340,Tonnes,UK,Scotland,Glasgow,Nord Data Centre,1,34
+12346,701815640553,Travis Perkins,Average,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,1520,Tonnes,UK,Scotland,Glasgow,Nord Data Centre,2,44
+12346,228776211850,Travis Perkins,EPD,Concrete - Mortar_screed - 1:4 cement:sand mix avg UK cement mix,Concrete - Insitu,4/6/2023,1670,Tonnes,UK,Scotland,Glasgow,Nord Data Centre,3,52
+12346,722450906643,EH Smith,EPD,Steel - Structural_sections - Global closed sections,Steel,9/20/2023,850,Tonnes,UK,Scotland,Glasgow,Nord Data Centre,4,443
+12346,865957989822,EH Smith,EPD,"Concrete, GEN3",Concrete,9/20/2023,633,Tonnes,UK,Scotland,Glasgow,Nord Data Centre,5,15
+12346,820088630309,EH Smith,Average,Steel - PT_strands - UK 97% recycled EAF production,Steel,9/20/2023,900,Tonnes,UK,Scotland,Glasgow,Nord Data Centre,6,143
+12346,583778146887,Bradfords,Average,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,2000,Tonnes,UK,Wales,Cardiff,Beacon Homes,1,410
+12346,797796630765,Bradfords,Average,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,1270,Tonnes,UK,Wales,Cardiff,Beacon Homes,2,15
+12346,304510773858,Bradfords,EPD,"Concrete C32/40 CII/B-V ECOPact, Mix code PUL2921/004, Purley plant",Concrete,11/15/2023,1800,Tonnes,UK,Wales,Cardiff,Beacon Homes,3,31
+12346,699243077076,Bradfords,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,11/15/2023,2300,Tonnes,UK,Wales,Cardiff,Beacon Homes,4,33
+12346,198504921747,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,200,Tonnes,UK,Wales,Cardiff,Beacon Homes,5,8
+12346,542789205210,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,150,Tonnes,UK,Wales,Cardiff,Beacon Homes,6,8
+12346,712946657091,Bradfords,EPD,AGT Medium Density Fibreboard (Raw),Timber,11/15/2023,1500,Tonnes,UK,Wales,Cardiff,Norva Pharma,1,131
+12346,8012287784,Bradfords,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,11/15/2023,1500,Tonnes,UK,Wales,Cardiff,Norva Pharma,2,22
+12346,221637001028,Bradfords,EPD,"Concrete C32/40 ECOPact , Mix code BRL2920/003, Brentford plant",Concrete,11/15/2023,1300,Tonnes,UK,Wales,Cardiff,Norva Pharma,3,25
+12346,19056839636,Bradfords,EPD,"Concrete GEN3 ECOPact, Mix code WAL2928/002, Watford plant",Concrete,11/15/2023,1700,Tonnes,UK,Wales,Cardiff,Norva Pharma,4,22
+12346,168438358698,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,340,Tonnes,UK,Wales,Cardiff,Norva Pharma,5,19
+12346,84632925456,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,250,Tonnes,UK,Wales,Cardiff,Norva Pharma,6,17
+12346,419697517762,Bradfords,Average,Optima 117+ 16.8mm Partition System Category I,Timber,11/15/2023,2000,Tonnes,UK,Wales,Cardiff,John Hotels,1,480
+12346,961592151550,Bradfords,Average,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,11/15/2023,1270,Tonnes,UK,Wales,Cardiff,John Hotels,2,20
+12346,3270420013,Bradfords,EPD,Concrete - Insitu - UK C16/20 (0% SCM),Concrete - Insitu,11/15/2023,1800,Tonnes,UK,Wales,Cardiff,John Hotels,3,34
+12346,622566804289,Bradfords,EPD,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,2300,Tonnes,UK,Wales,Cardiff,John Hotels,4,28
+12346,209266597871,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,200,Tonnes,UK,Wales,Cardiff,John Hotels,5,8
+12346,367102083284,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,150,Tonnes,UK,Wales,Cardiff,John Hotels,6,8
+12346,874080934328,Bradfords,EPD,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,1780,Tonnes,UK,Wales,Swansea,Mary Towers,1,327
+12346,258212972898,Bradfords,EPD,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,500,Tonnes,UK,Wales,Swansea,Mary Towers,2,5
+12346,304787708679,Bradfords,EPD,"Concrete C32/40 CII/B-V ECOPact, Mix code PUL2921/004, Purley plant",Concrete,11/15/2023,1000,Tonnes,UK,Wales,Swansea,Mary Towers,3,15
+12346,882728983647,Bradfords,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,11/15/2023,1300,Tonnes,UK,Wales,Swansea,Mary Towers,4,17
+12346,444744876120,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,200,Tonnes,UK,Wales,Swansea,Mary Towers,5,7
+12346,955656829289,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,150,Tonnes,UK,Wales,Swansea,Mary Towers,6,7
+12346,509225427173,Bradfords,Average,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,1200,Tonnes,UK,Wales,Swansea,Victoria Hospital,1,378
+12346,565402216045,Bradfords,Average,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,670,Tonnes,UK,Wales,Swansea,Victoria Hospital,2,12
+12346,662167036905,Bradfords,EPD,"Concrete C32/40 CII/B-V ECOPact, Mix code PUL2921/004, Purley plant",Concrete,11/15/2023,560,Tonnes,UK,Wales,Swansea,Victoria Hospital,3,15
+12346,817197433206,Bradfords,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,11/15/2023,1300,Tonnes,UK,Wales,Swansea,Victoria Hospital,4,29
+12346,18494788557,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,130,Tonnes,UK,Wales,Swansea,Victoria Hospital,5,8
+12346,271203539800,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,190,Tonnes,UK,Wales,Swansea,Victoria Hospital,6,15
+12346,55009620031,Bradfords,EPD,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,1100,Tonnes,UK,South East,Swansea,Melbourne Business Park,1,222
+12346,768455758690,Bradfords,EPD,"Concrete C45/55 ECOPact Prime, Mix code GRL2924/010, Greenwich plant",Concrete,11/15/2023,900,Tonnes,UK,South East,Swansea,Melbourne Business Park,2,11
+12346,504812443163,Bradfords,EPD,"Concrete C32/40 CII/B-V ECOPact, Mix code PUL2921/004, Purley plant",Concrete,11/15/2023,1400,Tonnes,UK,South East,Swansea,Melbourne Business Park,3,23
+12346,257157752989,Bradfords,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,11/15/2023,1100,Tonnes,UK,South East,Swansea,Melbourne Business Park,4,16
+12346,648375595919,EH Smith,Average,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,120,Tonnes,UK,South East,Swansea,Melbourne Business Park,5,5
+12346,930460532195,EH Smith,Average,"Timber, Hardwood",Timber - formwork,12/10/2023,150,Tonnes,UK,South East,Swansea,Melbourne Business Park,6,8
+12346,996588248759,Lawsons,Average,"Timber, Hardboard",Timber - formwork,12/10/2023,230,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,1,23
+12346,196608284954,EH Smith,Average,"Timber, Plywood",Timber - formwork,12/10/2023,500,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,2,43
+12346,981491779442,MKM,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code GRL2924/011, Greenwich plant",Concrete,1/17/2024,1400,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,3,5
+12346,765016003977,Highbourne Group,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,120,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,4,326
+12346,308729988290,Highbourne Group,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,4500,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,5,49
+12346,705187175422,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,311,Tonnes,UK,North West,Liverpool,Lux Shopping Centre,6,256
+12346,943616261938,JT Atkinson,Average,"Timber, Fibreboard",Timber - formwork,12/10/2023,90,Tonnes,UK,North West,Liverpool,Smiths Offices,1,11
+12346,201129810652,James Burrell,Average,"Timber, Laminated strand lumber",Timber - formwork,12/10/2023,300,Tonnes,UK,North West,Liverpool,Smiths Offices,2,26
+12346,435664867516,Bradfords,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code WAL2928/011, Watford plant",Concrete,1/17/2024,1300,Tonnes,UK,North West,Liverpool,Smiths Offices,3,7
+12346,893427274189,Williams & Co,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,100,Tonnes,UK,North West,Liverpool,Smiths Offices,4,375
+12346,280820064014,JT Atkinson,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,6500,Tonnes,UK,North West,Liverpool,Smiths Offices,5,98
+12346,23687743582,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,200,Tonnes,UK,North West,Liverpool,Smiths Offices,6,228
+12346,446194293443,EH Smith,Average,"Timber, Laminated strand lumber",Timber - formwork,12/10/2023,120,Tonnes,UK,North West,Liverpool,Pauls Hospital,1,11
+12346,925212939735,EH Smith,Average,"Timber, Parquet",Timber - formwork,12/10/2023,450,Tonnes,UK,North West,Liverpool,Pauls Hospital,2,64
+12346,457888884702,Travis Perkins,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code WAL2928/011, Watford plant",Concrete,1/17/2024,1100,Tonnes,UK,North West,Liverpool,Pauls Hospital,3,6
+12346,564598695607,MKM,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,120,Tonnes,UK,North West,Liverpool,Pauls Hospital,4,458
+12346,143949171994,Highbourne Group,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,5400,Tonnes,UK,North West,Liverpool,Pauls Hospital,5,83
+12346,825329119339,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,110,Tonnes,UK,North West,Liverpool,Pauls Hospital,6,127
+12346,273077462101,Grafton Group,Average,"Timber, MDF",Timber - formwork,12/10/2023,120,Tonnes,UK,North West,Manchester,Kate College Campus,1,16
+12346,667669253423,JT Atkinson,Average,"Timber, OSB",Timber - formwork,12/10/2023,350,Tonnes,UK,North West,Manchester,Kate College Campus,2,25
+12346,722952215000,Wolseley UK,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code GRL2924/011, Greenwich plant",Concrete,1/17/2024,1200,Tonnes,UK,North West,Manchester,Kate College Campus,3,6
+12346,183907711878,Travis Perkins,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,110,Tonnes,UK,North West,Manchester,Kate College Campus,4,378
+12346,875671094050,MKM,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,5900,Tonnes,UK,North West,Manchester,Kate College Campus,5,81
+12346,244594916003,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,167,Tonnes,UK,North West,Manchester,Kate College Campus,6,174
+12346,190402023960,EH Smith,Average,"Timber, Chipboard",Timber - formwork,12/10/2023,100,Tonnes,UK,North West,Manchester,Athens Sports Centre,1,6
+12346,520606073550,EH Smith,EPD,"Timber, Laminated strand lumber",Timber - formwork,12/10/2023,250,Tonnes,UK,North West,Manchester,Athens Sports Centre,2,17
+12346,168297017691,Highbourne Group,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,1/17/2024,1200,Tonnes,UK,North West,Manchester,Athens Sports Centre,3,8
+12346,285393442493,Highbourne Group,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,140,Tonnes,UK,North West,Manchester,Athens Sports Centre,4,421
+12346,268646559678,Highbourne Group,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,6100,Tonnes,UK,North West,Manchester,Athens Sports Centre,5,74
+12346,309329654323,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,165,Tonnes,UK,North West,Manchester,Athens Sports Centre,6,150
+12346,525525898206,Haldane Group,EPD,Brickwork - Single skin wall with mortar 1:4 CEM I cement:sand mix,Brickwork,12/10/2023,800,Tonnes,UK,North West,Manchester,City Fibre Data Centre,1,19
+12346,756753836525,James Hargreaves,Average,"Glass, Glazing triple",Glass,12/10/2023,600,Tonnes,UK,North West,Manchester,City Fibre Data Centre,2,101
+12346,366387359099,Travis Perkins,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code WAL2928/011, Watford plant",Concrete,1/17/2024,1500,Tonnes,UK,North West,Manchester,City Fibre Data Centre,3,6
+12346,374876272166,Williams & Co,EPD,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,200,Tonnes,UK,North West,Manchester,City Fibre Data Centre,4,511
+12346,875360877252,Lords Group Trading,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,1/17/2024,5690,Tonnes,UK,North West,Manchester,City Fibre Data Centre,5,58
+12346,715611968189,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,189,Tonnes,UK,North West,Manchester,Lux Shopping Centre,6,146
+12346,339835643768,Wolseley UK,Average,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,175,Tonnes,UK,North East,Gateshead,Johns Grammar School,1,288
+12346,695574411190,Wolseley UK,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,300,Tonnes,UK,North East,Gateshead,Johns Grammar School,2,260
+12346,793968825833,Williams & Co,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,3000,Tonnes,UK,North East,Gateshead,Johns Grammar School,3,18
+12346,748874268959,Williams & Co,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,2800,Tonnes,UK,North East,Gateshead,Johns Grammar School,4,23
+12346,191441420698,Williams & Co,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2100,Tonnes,UK,North East,Gateshead,Johns Grammar School,5,16
+12346,412477521225,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1100,Tonnes,UK,North East,Gateshead,Johns Grammar School,6,12
+12346,496780221350,Wolseley UK,Average,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,150,Tonnes,UK,North East,Gateshead,Pinewood Estate,1,156
+12346,290246134391,Wolseley UK,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,290,Tonnes,UK,North East,Gateshead,Pinewood Estate,2,313
+12346,523855379782,Williams & Co,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,2600,Tonnes,UK,North East,Gateshead,Pinewood Estate,3,19
+12346,961770646972,Williams & Co,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,2350,Tonnes,UK,North East,Gateshead,Pinewood Estate,4,24
+12346,921531408559,Williams & Co,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2200,Tonnes,UK,North East,Gateshead,Pinewood Estate,5,21
+12346,410858871648,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1300,Tonnes,UK,North East,Gateshead,Pinewood Estate,6,18
+12346,176520854235,Highbourne Group,Average,Steel_fire_protection - Amotherm steel WB EPD,Aluminium,2/10/2024,200,Tonnes,UK,North East,Gateshead,Hilton Hotel,1,81
+12346,684089409885,UK Plumbling Supplies,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,180,Tonnes,UK,North East,Gateshead,Hilton Hotel,2,208
+12346,772476089885,Lawsons,EPD,"Concrete, GEN1",Concrete,3/3/2024,3500,Tonnes,UK,North East,Gateshead,Hilton Hotel,3,58
+12346,150544473436,EH Smith,EPD,"Concrete GEN1 ECOPact, Mix code HNL2930/001, Hornsey plant",Concrete,3/3/2024,4500,Tonnes,UK,North East,Gateshead,Hilton Hotel,4,41
+12346,458535931306,Williams & Co,EPD,"Concrete C32/40 ECOPact , Mix code BRL2920/003, Brentford plant",Concrete,3/3/2024,4000,Tonnes,UK,North East,Gateshead,Hilton Hotel,5,58
+12346,21481766598,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,2100,Tonnes,UK,North East,Gateshead,Hilton Hotel,6,31
+12346,367090299492,Huws Gray Group,Average,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,175,Tonnes,UK,North East,South Shields,West Pharma Company,1,353
+12346,810441948705,MKM,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,300,Tonnes,UK,North East,South Shields,West Pharma Company,2,318
+12346,613319505005,James Hargreaves,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,3000,Tonnes,UK,North East,South Shields,West Pharma Company,3,22
+12346,277360361768,Haldane Group,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,2800,Tonnes,UK,North East,South Shields,West Pharma Company,4,28
+12346,979121777228,EH Smith,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2100,Tonnes,UK,North East,South Shields,West Pharma Company,5,20
+12346,974158182739,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1100,Tonnes,UK,North East,South Shields,West Pharma Company,6,15
+12346,169557150220,Wolseley UK,Average,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,200,Tonnes,UK,North East,South Shields,Victoria Medical Centre,1,338
+12346,989897517486,Wolseley UK,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,310,Tonnes,UK,North East,South Shields,Victoria Medical Centre,2,275
+12346,656166945118,Lawsons,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,3900,Tonnes,UK,North East,South Shields,Victoria Medical Centre,3,24
+12346,272374616703,Bradfords,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,4500,Tonnes,UK,North East,South Shields,Victoria Medical Centre,4,38
+12346,726658732862,MKM,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2700,Tonnes,UK,North East,South Shields,Victoria Medical Centre,5,21
+12346,825626282021,James Burrell,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1500,Tonnes,UK,North East,South Shields,Victoria Medical Centre,6,17
+12346,713498940923,MKM,Average,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,190,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,1,309
+12346,892674346919,Huws Gray Group,Average,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,290,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,2,248
+12346,699508911929,James Burrell,EPD,"Concrete GEN1 ECOPact, Mix code WAL2928/001, Watford plant",Concrete,3/3/2024,4200,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,3,25
+12346,879557628417,Grafton Group,EPD,"Concrete GEN3 ECOPact, Mix code BWL2922/002, Bow plant",Concrete,3/3/2024,3100,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,4,25
+12346,85920054698,Lawsons,EPD,"Concrete C28/35 ECOPact Prime AS, Mix code BRL2920/009, Brentford plant",Concrete,3/3/2024,2400,Tonnes,UK,North East,South Shields,Atkin Childrens Hospital,5,18
+12346,37775420118,Williams & Co,EPD,"Concrete C40/50 ECOPact, Mix code WAL2928/004, Watford plant",Concrete,3/3/2024,1100,Tonnes,UK,North East,Gateshead,Atkin Childrens Hospital,6,12
+12346,211703781504,Highbourne Group,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,200,Tonnes,UK,South West,Plymouth,Velum Data Centre,1,46
+12346,282928152475,Huws Gray Group,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,500,Tonnes,UK,South West,Plymouth,Velum Data Centre,2,14
+12346,173725733999,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,700,Tonnes,UK,South West,Plymouth,Velum Data Centre,3,71
+12346,444754014723,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1350,Tonnes,UK,South West,Plymouth,Velum Data Centre,4,140
+12346,815885421819,Lawsons,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,790,Tonnes,UK,South West,Plymouth,Velum Data Centre,5,11
+12346,217478302307,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1200,Tonnes,UK,South West,Plymouth,Velum Data Centre,6,5
+12346,285992214456,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,300,Tonnes,UK,South West,Plymouth,Morgan Business Park,1,95
+12346,643296526046,Wolseley UK,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,1000,Tonnes,UK,South West,Plymouth,Morgan Business Park,2,39
+12346,263245646376,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,700,Tonnes,UK,South West,Plymouth,Morgan Business Park,3,97
+12346,373049141140,Lawsons,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1400,Tonnes,UK,South West,Plymouth,Morgan Business Park,4,198
+12346,898382062557,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,550,Tonnes,UK,South West,Plymouth,Morgan Business Park,5,10
+12346,298320320435,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1390,Tonnes,UK,South West,Plymouth,Morgan Business Park,6,8
+12346,420037089614,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,360,Tonnes,UK,South West,Plymouth,Basin Retial Park,1,125
+12346,675327354110,Travis Perkins,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,700,Tonnes,UK,South West,Plymouth,Basin Retial Park,2,30
+12346,850701507646,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,900,Tonnes,UK,South West,Plymouth,Basin Retial Park,3,137
+12346,332450208487,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1500,Tonnes,UK,South West,Plymouth,Basin Retial Park,4,234
+12346,302885389421,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,900,Tonnes,UK,South West,Plymouth,Basin Retial Park,5,18
+12346,720371544593,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1400,Tonnes,UK,South West,Plymouth,Basin Retial Park,6,9
+12346,408940225606,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,600,Tonnes,UK,South West,Bath,City Housing,1,232
+12346,489989172667,Travis Perkins,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,700,Tonnes,UK,South West,Bath,City Housing,2,33
+12346,502465325640,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,750,Tonnes,UK,South West,Bath,City Housing,3,127
+12346,578859185101,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1800,Tonnes,UK,South West,Bath,City Housing,4,312
+12346,350169489393,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,1000,Tonnes,UK,South West,Bath,City Housing,5,22
+12346,266542454250,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1600,Tonnes,UK,South West,Bath,City Housing,6,12
+12346,786469920305,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,250,Tonnes,UK,South West,Bath,Passport Office,1,71
+12346,894244326278,Travis Perkins,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,790,Tonnes,UK,South West,Bath,Passport Office,2,27
+12346,281767774373,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,880,Tonnes,UK,South West,Bath,Passport Office,3,109
+12346,565168146509,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1700,Tonnes,UK,South West,Bath,Passport Office,4,215
+12346,798521677963,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,1100,Tonnes,UK,South West,Bath,Passport Office,5,18
+12346,847075985511,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1320,Tonnes,UK,South West,Bath,Passport Office,6,7
+12346,727883240906,Travis Perkins,Average,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,200,Tonnes,UK,South West,Bath,Atrium Sports Complex,1,89
+12346,160783931613,Travis Perkins,Average,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,500,Tonnes,UK,South West,Bath,Atrium Sports Complex,2,27
+12346,39411707548,Travis Perkins,Average,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,700,Tonnes,UK,South West,Bath,Atrium Sports Complex,3,136
+12346,174249072792,JT Atkinson,EPD,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1350,Tonnes,UK,South West,Bath,Atrium Sports Complex,4,270
+12346,40048073046,JT Atkinson,EPD,Concrete - Insitu - UK C25/30 (25% GGBS),Concrete,4/4/2024,790,Tonnes,UK,South West,Bath,Atrium Sports Complex,5,20
+12346,592072263592,JT Atkinson,EPD,"Concrete P280 Soft pile ECOPact Max, Mix code TOL2927/009, Tolworth plant",Concrete,4/4/2024,1200,Tonnes,UK,South West,Bath,Atrium Sports Complex,6,10

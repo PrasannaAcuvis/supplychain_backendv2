@@ -1,0 +1,31 @@
+Region,City,BuildingName,Substructure,Superstructure,Façade,Internal walls and partitions,Internal finishes,FF&E,GIA (m2)
+London,Westminster,John Wood Hospital,40,60,75,150,50,340,5000
+London,Westminster,Gordon University,63,45,55,580,29,245,4000
+London,Westminster,Moors Shopping centre,52,75,110,430,78,45,4500
+London,Islington,Hope Community Centre,120,67,109,200,110,230,6450
+London,Islington,Osborne Apartments,67,78,45,170,120,490,7320
+London,Islington,Vox Data Centre,50,67,80,510,55,170,4800
+South East,Oxford,Hunton Towers,500,21,56,78,30,90,6000
+South East,Oxford,Henry Library,160,67,89,100,120,89,4500
+South East,Oxford,Kennedy Hotel,500,55,90,100,56,90,6000
+South East,Portsmouth,JK Science Building,400,45,67,54,29,88,6700
+South East,Portsmouth,Mason Complex,600,31,43,74,41,39,3900
+South East,Portsmouth,Apex shopping mall,340,65,90,56,78,60,6100
+North West,Liverpool,Lux Shopping Centre,67,89,45,400,63,278,8000
+North West,Liverpool,Smiths Offices,45,65,54,400,110,255,5780
+North West,Liverpool,Pauls Hospital,34,90,30,470,100,156,5690
+North West,Manchester,Kate College Campus,56,89,54,390,120,200,6320
+North West,Manchester,Athens Sports Centre,34,56,31,459,90,190,7220
+North West,Manchester,City Fibre Data Centre,83,160,45,550,90,186,8500
+North East,Gateshead,Johns Grammar School,310,287,34,29,41,45,7890
+North East,Gateshead,Pinewood Estate,191,340,55,56,73,39,6330
+North East,Gateshead,Hilton Hotel,101,230,78,90,101,70,5900
+North East,South Shields,West Pharma Company,387,340,45,51,63,44,6440
+North East,South Shields,Victoria Medical Centre,350,290,29,56,43,38,7700
+North East,South Shields,Atkin Childrens Hospital,330,267,34,59,30,25,8000
+South West,Plymouth,Velum Data Centre,76,35,89,167,37,19,7500
+South West,Plymouth,Morgan Business Park,130,57,123,220,30,17,5500
+South West,Plymouth,Basin Retial Park,140,40,145,241,36,21,5000
+South West,Bath,City Housing,245,54,141,320,37,27,4500
+South West,Bath,Passport Office,90,41,123,237,42,19,6150
+South West,Bath,Atrium Sports Complex,101,43,152,283,31,19,3900

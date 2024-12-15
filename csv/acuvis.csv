@@ -1,0 +1,31 @@
+SupplierName,Carbon,MaterialDescription,MaterialType,Date,Quantity,UnitofMeasure,Cost,Country,Region,City,BuildingName,EelementGroup,GIA(m2),Carbon[tCO2e],[kgCO2e/m2]
+Travis Perkins,Estimate,Concrete - Insitu - UK C20/25 (25% GGBS),Concrete - Insitu,4/6/2023,1500,Tonnes,UK,London,Westminster,Hospital, Substructure,15000,140,11
+Travis Perkins,Estimate,Concrete - Insitu - UK C32/40 (25% GGBS),Concrete - Insitu,4/6/2023,1900,Tonnes,UK,London,Westminster,Hospital,Façade,15000,228,18
+Travis Perkins,Estimate,Concrete - Insitu - UK C40/50 (25% GGBS),Concrete - Insitu,4/6/2023,2100,Tonnes,UK,London,Westminster,Hospital,Internal finishes,15000,290,22
+EH Smith,Estimate,Steel - Rebar - UK 97% recycled EAF production,Steel,9/20/2023,600,Tonnes,UK,East of England,Oxford,Uni Campus,FF&E,13000,456,35
+EH Smith,Estimate,Concrete - Insitu - Global Avg C32/40 ±10% (Excludes China),Concrete - Insitu,9/20/2023,750,Tonnes,UK,East of England,Oxford,Uni Campus,Internal finishes,13000,143,11
+EH Smith,Estimate,Steel - PT_strands - UK 97% recycled EAF production,Steel,9/20/2023,1000,Tonnes,UK,East of England,Oxford,Uni Campus,Internal finishes,13000,760,58
+Bradfords,Actual,Raw birch plywood (Riga Ply) with lignin based glue RIGA ECOlogical,Timber,11/15/2023,200,Tonnes,UK,East of England,Walton upon Thames,Office Blocks,Substructure,15600,246,19
+Bradfords,Actual,Concrete C45/55 ECOPact Prime Mix code GRL2924/010 Greenwich plant,Concrete,11/15/2023,1270,Tonnes,UK,East of England,Walton upon Thames,Office Blocks, Substructure,15600,91,7
+Bradfords,Actual,Concrete C32/40 CII/B-V ECOPact Mix code PUL2921/004 Purley plant,Concrete,11/15/2023,1800,Tonnes,UK,East of England,Walton upon Thames,Office Blocks, Substructure,15600,184,14
+Bradfords,Actual,Concrete C40/50 ECOPact Mix code WAL2928/004 Watford plant,Concrete,11/15/2023,2300,Tonnes,UK,East of England,Walton upon Thames,Office Blocks,Substructure,15600,200,15
+EH Smith,Estimate,Timber - Manufactured_structural_timber - UK CLT 100% FSC/PEFC,Timber - formwork,12/10/2023,200,Tonnes,UK,West Midlands,Warrington,Shopping Centre,Façade,25000,50,4
+EH Smith,Estimate,Timber Hardwood,Timber - formwork,12/10/2023,150,Tonnes,UK,West Midlands,Warrington,Shopping Centre,Façade,25000,46,4
+EH Smith,Estimate,Timber Fibreboard,Timber - formwork,12/10/2023,90,Tonnes,UK,West Midlands,Warrington,Shopping Centre,Façade,25000,64,5
+EH Smith,Estimate,Timber Laminated strand lumber,Timber - formwork,12/10/2023,300,Tonnes,UK,West Midlands,Warrington,Shopping Centre,Façade,25000,151,12
+Highbourne Group,Actual,Concrete P280 Soft pile ECOPact Max Mix code WAL2928/011 Watford plant,Concrete,1/17/2024,1300,Tonnes,UK,London,Islington,Residential,Superstructure,32000,42,3
+Highbourne Group,Actual,XT66 Performance Plus Tilt & Turn DG 1.48m x 2.18m,Aluminium,1/17/2024,100,Tonnes,UK,London,Islington,Residential,Façade,32000,2170,167
+Highbourne Group,Actual,Concrete C40/50 ECOPact Mix code WAL2928/004 Watford plant,Concrete,1/17/2024,6500,Tonnes,UK,London,Islington,Residential,Superstructure,32000,566,44
+Wolseley UK,Estimate,Aluminium - Sheet - European - 31% recycled content,Aluminium,2/10/2024,200,Tonnes,UK,West Midlands,Liverpool,Industrial,FF&E,19000,1316,101
+Wolseley UK,Estimate,Aluminium - Sheet - Worldwide- 31% recycled content,Aluminium,2/10/2024,175,Tonnes,UK,West Midlands,Liverpool,Industrial,Internal finishes,19000,2275,175
+Wolseley UK,Estimate,Aluminium - Extruded profile - European - 31% recycled content,Aluminium,2/10/2024,300,Tonnes,UK,West Midlands,Liverpool,Industrial,Internal walls and partitions,19000,2049,158
+Williams & Co,Actual,Concrete GEN1 ECOPact Mix code WAL2928/001 Watford plant,Concrete,3/3/2024,3000,Tonnes,UK,London,Ilford,School,Superstructure,6000,142,11
+Williams & Co,Actual,Concrete GEN3 ECOPact Mix code BWL2922/002 Bow plant,Concrete,3/3/2024,2800,Tonnes,UK,London,Ilford,School,Superstructure,6000,181,14
+Williams & Co,Actual,Concrete C28/35 ECOPact Prime AS Mix code BRL2920/009 Brentford plant,Concrete,3/3/2024,2100,Tonnes,UK,London,Ilford,School,Superstructure,6000,126,10
+Williams & Co,Actual,Concrete C40/50 ECOPact Mix code WAL2928/004 Watford plant,Concrete,3/3/2024,1100,Tonnes,UK,London,Ilford,School,Superstructure,6000,96,7
+Travis Perkins,Estimate,Steel - Structural_sections - UK open rolled sections,Steel,3/23/2024,130,Tonnes,UK,West Midlands,Manchester,Government,Internal finishes,14000,226,17
+Travis Perkins,Estimate,Brickwork - UK: BDA generic brick,Blockwork,3/23/2024,200,Tonnes,UK,West Midlands,Manchester,Government,Superstructure,14000,43,3
+Travis Perkins,Estimate,Steel - Rebar - UK 97% recycled EAF production,Steel,3/23/2024,300,Tonnes,UK,West Midlands,Manchester,Government,Façade,14000,228,18
+JT Atkinson,Actual,Fabricated steel reinforcement products (cut and bent rebar),Steel,4/4/2024,1350,Tonnes,UK,East of England,Cambridge,Data Centre,Façade,56000,1052,81
+JT Atkinson,Actual,Concrete GEN3 ECOPact Mix code WAL2928/002 Watford plant,Concrete,4/4/2024,790,Tonnes,UK,East of England,Cambridge,Data Centre,Superstructure,56000,47,4
+JT Atkinson,Actual,Concrete P280 Soft pile ECOPact Max Mix code TOL2927/009 Tolworth plant,Concrete,4/4/2024,1200,Tonnes,UK,East of England,Cambridge,Data Centre,Superstructure,56000,39,3
