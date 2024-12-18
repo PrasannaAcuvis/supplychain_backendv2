@@ -39,7 +39,7 @@ class BestMatchAPIView(generics.GenericAPIView,
     # External API URL and Authorization
     API_URL = "https://app.2050-materials.com/developer/api/get_best_match/"
     API_HEADERS = {
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM0NDQ1NzQzLCJpYXQiOjE3MzQzNTkzNDMsImp0aSI6IjQyYzlkN2MwNjkxZjRjMmM5ZDIwYjE4MWI4MTdlNzljIiwidXNlcl9pZCI6NjYzMX0.oLjIGDhnjA1HYEIOjr6_VTIyJeh5p_yYIrN0rGOjz3w"
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM0NjE2MTg2LCJpYXQiOjE3MzQ1Mjk3ODYsImp0aSI6Ijc0Y2RhNjQ4MTQzYzQyOGY5NDY2NDk0MWNhYTEzZmU1IiwidXNlcl9pZCI6NjYzMX0.f7KumbTTa4sZ1FHY_taCGlGiRrJwZatQxnjq7y-Jp8g"
     }
 
     def convert_date_format(self, date_str):
